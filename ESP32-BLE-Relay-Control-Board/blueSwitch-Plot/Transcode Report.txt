@@ -1,0 +1,93 @@
+
+
+   ---- Transcoding 'C:\Users\Oizom\Documents\GitHub\blueSwitch\ESP32-BLE-Relay-Control-Board\blueSwitch-Plot\ESP32-BLE-Relay-Control-Board-B_Mask.gbr' ----   Thu Aug  6 11:42:07 2020
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+D17   --> D107
+D18   --> D108
+D19   --> D109
+D20   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Oizom\Documents\GitHub\blueSwitch\ESP32-BLE-Relay-Control-Board\blueSwitch-Plot\ESP32-BLE-Relay-Control-Board-B_SilkS.gbr' ----   Thu Aug  6 11:42:08 2020
+
+D10   --> D111
+D11   --> D112
+D12   --> D113
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Oizom\Documents\GitHub\blueSwitch\ESP32-BLE-Relay-Control-Board\blueSwitch-Plot\ESP32-BLE-Relay-Control-Board-Edge_Cuts.gbr' ----   Thu Aug  6 11:42:08 2020
+
+D10   --> D114
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Oizom\Documents\GitHub\blueSwitch\ESP32-BLE-Relay-Control-Board\blueSwitch-Plot\ESP32-BLE-Relay-Control-Board-F_Cu.gbr' ----   Thu Aug  6 11:42:08 2020
+
+D14   --> D115
+D15   --> D116
+D16   --> D117
+D17   --> D118
+D18   --> D119
+D19   --> D120
+D20   --> D121
+D21   --> D122
+D22   --> D123
+D23   --> D124
+D24   --> D125
+D25   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Oizom\Documents\GitHub\blueSwitch\ESP32-BLE-Relay-Control-Board\blueSwitch-Plot\ESP32-BLE-Relay-Control-Board-F_Mask.gbr' ----   Thu Aug  6 11:42:08 2020
+
+D10   --> D127
+D11   --> D128
+D13   --> D129
+D14   --> D130
+D15   --> D131
+D16   --> D132
+D17   --> D133
+D18   --> D134
+D19   --> D135
+D20   --> D136
+D21   --> D137
+D22   --> D138
+D23   --> D139
+D24   --> D140
+D25   --> D141
+D26   --> D142
+D27   --> D143
+D28   --> D144
+D29   --> D145
+D30   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Oizom\Documents\GitHub\blueSwitch\ESP32-BLE-Relay-Control-Board\blueSwitch-Plot\ESP32-BLE-Relay-Control-Board-F_Paste.gbr' ----   Thu Aug  6 11:42:08 2020
+
+D10   --> D147
+D11   --> D148
+D12   --> D149
+D13   --> D150
+D14   --> D151
+D15   --> D152
+D16   --> D153
+D17   --> D154
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Oizom\Documents\GitHub\blueSwitch\ESP32-BLE-Relay-Control-Board\blueSwitch-Plot\ESP32-BLE-Relay-Control-Board-F_SilkS.gbr' ----   Thu Aug  6 11:42:08 2020
+
+D10   --> D155
+D11   --> D156
+D12   --> D157
+-----------------------------------------------------------------
